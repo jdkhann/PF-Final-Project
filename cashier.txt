@@ -1,0 +1,5 @@
+CashierID,		Cashier Name,		       CNIC no.,		Contact number
+	1,	        Muhammad Ali,		   543112342312,	        03123144441	
+	2,	              Hammad,              112312313123,                03123123333
+	3,	               Jawad,              254534534534,                03213123131
+	4,	      	      Faizan,              345345345343,           	03333113221
