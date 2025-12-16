@@ -1,0 +1,5 @@
+ProductID,		Product Name,		Price,		Stock,		Category,
+	1,	       Apples - 1 kg,		   100,		   30,		Fruits and Vegetables		
+	2,	       Slanty - 250g,               50,            55,		Snacks
+	3,	      Milk - 1 Liter,              200,            40,		Dairy
+	4,	      Cocomo - 30g  ,               30,           100,		Snacks
