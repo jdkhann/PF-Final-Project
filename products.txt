@@ -1,0 +1,15 @@
+           ProductID,				Product Name,		      Price,	  Stock,			 Category,
+	           1,	       			Apples - 1 kg,		        100,	     30,			 Fruits		
+		   3,	      		       Milk - 1 Liter,                  200,         40,			 Dairy
+		   4,	      		       Cocomo - 30g  ,                   30,        100,			 Snacks                   
+                   5,                             Oranges 1 kg,                  300,         50,                         Fruits
+                   6,                      Black Pepper 250 gm,                  180,         40,                         Spices
+                   7,                                  Toy car,                  550,         25,                           Toys
+		   8,                            Pakola 500 ml,                  100,        120,                      Beverages
+                   9,                           Ice cream cone,                   50,         30,                         Frozen
+                  10,                                    Juice,                   55,         33,                      Beverages                  
+		  11,                              Onions 1 kg,                  200,         12,                     Vegetables
+                  12,                                Chocolate,                   30,        300,                         Snacks
+                  13,                                      Hat,                  850,         12,                        Clothes
+                  14,                                   Gloves,                  900,          2,                        Clothes
+                  16,                            Cheese 100 gm,                  150,         40,                          Dairy
