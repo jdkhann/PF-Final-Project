@@ -1,5 +1,0 @@
-CashierID,		Customer Name,		 Contact number
-	1,	        Muhammad Ali,		 03123144441	
-	2,	              Hammad,            03123123333
-	3,	               Jawad,            03213123131
-	4,	      	      Faizan,            03333113221
